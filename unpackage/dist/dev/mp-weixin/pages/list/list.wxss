@@ -1,0 +1,200 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* head区域样式 */
+.list-head.data-v-7d5e07c6 {
+	display: flex;
+	margin: 34rpx;
+}
+.list-head-img.data-v-7d5e07c6 {
+	position: relative;
+}
+.list-head-img image.data-v-7d5e07c6 {
+	width: 262rpx;
+	height: 262rpx;
+	border-radius: 30rpx;
+}
+.list-head-img text.data-v-7d5e07c6 {
+	position: absolute;
+	right: 10rpx;
+	top: 8rpx;
+	color: white;
+	font-size: 22rpx
+}
+.list-head-text.data-v-7d5e07c6 {
+	flex: 1;
+	padding-left: 40rpx;
+}
+.list-head-text view.data-v-7d5e07c6:nth-child(1) {
+	font-size: 30rpx;
+	color: #fff;
+}
+.list-head-text view.data-v-7d5e07c6:nth-child(2) {
+	display: flex;
+	align-items: center;
+	margin-top: 30rpx;
+	margin-bottom: 26rpx;
+}
+.list-head-text view:nth-child(2) image.data-v-7d5e07c6 {
+	width: 56rpx;
+	height: 56rpx;
+	border-radius: 50%;
+	margin-right: 14rpx;
+}
+.list-head-text view:nth-child(2) text.data-v-7d5e07c6 {
+	font-size: 22rpx;
+	color: #fff;
+}
+.list-head-text view.data-v-7d5e07c6:nth-child(3) {
+	font-size: 20rpx;
+	color: #fff;
+	line-height: 32rpx;
+}
+
+/* 分享按钮区域样式 */
+.list-share.data-v-7d5e07c6 {
+	width: 334rpx;
+	height: 74rpx;
+	color: #fff;
+	line-height: 74rpx;
+	border-radius: 40rpx;
+	background-color: rgba(0,0,0,0.2);
+	font-size: 28rpx;
+}
+.list-share text.data-v-7d5e07c6 {
+	margin-right: 16rpx;
+}
+
+/* 歌曲列表 */
+.list-music.data-v-7d5e07c6{margin-top:42rpx;background-color: #fff;border-radius: 50rpx;}
+.list-music-head.data-v-7d5e07c6{line-height: 112rpx;}
+.list-music-head text.data-v-7d5e07c6:nth-child(1){font-size: 52rpx;margin-right: 26rpx;margin-left: 26rpx;}
+.list-music-head text.data-v-7d5e07c6:nth-child(2){font-size: 30rpx;margin-right: 10rpx;}
+.list-music-head text.data-v-7d5e07c6:nth-child(3){font-size: 24rpx; color: #b1b1b1;}
+.list-music-item.data-v-7d5e07c6{height: 126rpx;width: 100%;display: flex;align-items: center;position: relative;}
+.list-music-top.data-v-7d5e07c6{width: 100rpx; color: #959559; text-align: center;}
+.list-music-song.data-v-7d5e07c6{display: flex;flex-direction: column;}
+.list-music-song view.data-v-7d5e07c6:nth-child(1){width: 500rpx; font-size: 28rpx;text-overflow: ellipsis;white-space: nowrap;overflow: hidden;}
+.list-music-song view.data-v-7d5e07c6:nth-child(2){width: 500rpx;overflow: hidden; display: flex;align-items: center;margin-top: 10rpx;}
+.list-music-song view:nth-child(2) image.data-v-7d5e07c6{width: 30rpx;height: 20rpx;margin-right: 6rpx;
+}
+.list-music-song view:nth-child(2) text.data-v-7d5e07c6{ width: 430rpx; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; margin-left:2rpx; font-size: 24rpx; color: #808080;}
+.list-music-item .iconbofang.data-v-7d5e07c6 {font-size: 58rpx;color: #d7d7d7; position: absolute;right: 32rpx;}
+
+

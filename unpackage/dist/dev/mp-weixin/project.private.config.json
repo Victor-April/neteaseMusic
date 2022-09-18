@@ -1,0 +1,32 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "list",
+          "pathName": "pages/list/list",
+          "query": "id=19723756",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "detail",
+          "pathName": "pages/detail/detail",
+          "query": "songId=1926623288",
+          "scene": null,
+          "launchMode": "default"
+        }
+      ]
+    }
+  }
+}

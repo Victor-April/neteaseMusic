@@ -1,0 +1,62 @@
+
+.index-scroll.data-v-57280228 {
+	width: initial;
+	margin-right: 44rpx;
+	margin-left: 44rpx;
+}
+
+/* 搜索框区 */
+.index-search.data-v-57280228 {
+	display: flex;
+	align-items: center;
+	height: 72rpx;
+	margin-top: 70rpx;
+	margin-bottom: 32rpx;
+	background: #f7f7f7;
+	border-radius: 40rpx;
+}
+.index-search text.data-v-57280228 {
+	margin-left: 30rpx;
+	font-size: 28rpx;
+	color: #bcbcbc;
+}
+.index-search input.data-v-57280228 {
+	margin-left: 24rpx;
+	font-size: 28rpx;
+	color: #9a9a9a;
+}
+
+/* 榜单区 */
+.index-list-item.data-v-57280228 {
+	display: flex;
+	margin-bottom: 36rpx;
+}
+.index-list-img.data-v-57280228 {
+	position: relative;
+}
+.index-list-img image.data-v-57280228 {
+	width: 212rpx;
+	height: 212rpx;
+	border-radius: 14rpx
+}
+.index-list-img text.data-v-57280228 {
+	font-size: 22rpx;
+	color: #fff;
+	position: absolute;
+	bottom: 16rpx;
+	left: 14rpx;
+}
+.index-list-text.data-v-57280228 {
+	margin-left: 22rpx;
+	padding-top: 4rpx;
+	color: #585858;
+	font-size: 22rpx;
+	width: 400rpx;
+}
+.index-list-text>view.data-v-57280228 {
+	line-height: 68rpx;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
